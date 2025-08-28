@@ -22,7 +22,7 @@ This project demonstrates how to containerize a simple Python Hello World app, p
 
   • Configured Ingress for external access <br>
 
-
+<br>
   <b> 🔹 Live Demo </b><br>
 
 
