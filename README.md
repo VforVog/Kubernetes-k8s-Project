@@ -32,14 +32,15 @@ This project demonstrates how to containerize a simple Python Hello World app, p
 <br>
 
 <br>
-🛠️ Tech Stack
 
-Python – Application
+<b>🛠️ Tech Stack </b>
 
-Docker – Containerization
+• Python – Application
 
-Docker Hub – Image registry
+• Docker – Containerization
 
-Kubernetes (Civo Cloud) – Cluster & orchestration
+• Docker Hub – Public Image registry
 
-YAML Manifests – Deployment, Service & Ingress
+• Kubernetes (Civo Cloud) – Cluster & orchestration
+
+• YAML Manifests – Deployment, Service & Ingress
