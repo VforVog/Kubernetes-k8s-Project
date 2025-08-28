@@ -6,24 +6,29 @@ This project demonstrates how to containerize a simple Python Hello World app, p
 
 <b> 🔹 Project Workflow </b>
 
-Cluster Setup – Created a Kubernetes cluster on Civo Cloud.
+1. Cluster Setup – Created a Kubernetes cluster on Civo Cloud.
 
-Application – Wrote a basic Python Hello World app.
+2. Application – Wrote a basic Python app that pulls data from the Enviroment where we have a fixed value of my name.
 
-Containerization – Built a Docker image and pushed it to Docker Hub.
+3. Containerization – Built a Docker image and pushed it to Docker Hub.
 
-Dependencies – Managed packages with a requirements.txt.
+4. Dependencies – Managed packages with a requirements.txt.
 
-Kubernetes Deployment –
+5. Kubernetes Deployment – 
 
-Defined a Deployment for the app
+  • Defined a Deployment for the app
 
-Exposed it via a Service
+  • Exposed it via a Service
 
-Configured Ingress for external access <br>
+  • Configured Ingress for external access <br>
 
 
-![Live Demo](gif/k8s%20project.gif)
+  <b> 🔹 Live Demo </b><br>
+
+
+![Live Demo](gif/k8s%20project.gif) 
+
+<br>
 
 
 🛠️ Tech Stack
