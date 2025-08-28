@@ -30,7 +30,7 @@ This project demonstrates how to containerize a simple Python Hello World app, p
 
 <br>
 
-
+<br>
 🛠️ Tech Stack
 
 Python – Application
