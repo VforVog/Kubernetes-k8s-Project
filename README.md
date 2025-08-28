@@ -1,7 +1,8 @@
-From Docker to Kubernetes 🚀
+<br><p align="center"><b>From Docker to Kubernetes 🚀</b></p><br>
+
 
 This project demonstrates how to containerize a simple Python Hello World app, push it to Docker Hub, and deploy it on a managed Kubernetes cluster using Civo Cloud.
-<hr>
+<hr> <br>
 
 🔹 Project Workflow
 
