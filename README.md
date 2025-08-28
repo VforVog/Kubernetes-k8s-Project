@@ -4,7 +4,7 @@
 This project demonstrates how to containerize a simple Python Hello World app, push it to Docker Hub, and deploy it on a managed Kubernetes cluster using Civo Cloud.
 <hr> <br>
 
-🔹 Project Workflow
+<b> 🔹 Project Workflow </b>
 
 Cluster Setup – Created a Kubernetes cluster on Civo Cloud.
 
@@ -20,7 +20,7 @@ Defined a Deployment for the app
 
 Exposed it via a Service
 
-Configured Ingress for external access
+Configured Ingress for external access <br>
 
 
 ![Live Demo](gif/k8s%20project.gif)
