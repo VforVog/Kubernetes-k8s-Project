@@ -1,1 +1,1 @@
-![Live Demo](gif/k8s-project.gif)
+![Live Demo](gif/k8s%20project.gif)
