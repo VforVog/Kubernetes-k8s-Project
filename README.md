@@ -14,7 +14,7 @@ This project demonstrates how to containerize a simple Python Hello World app, p
 
 4. Dependencies – Managed packages with a requirements.txt.
 
-5. Kubernetes Deployment – 
+5. Kubernetes Deployment –  
 
   • Defined a Deployment for the app
 
