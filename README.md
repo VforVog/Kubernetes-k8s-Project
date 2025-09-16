@@ -5,7 +5,7 @@ This project demonstrates how to containerize a simple Python Hello World app, p
 <hr> <br>
 
 <b> 🔹 Project Workflow </b>
-
+ 
 1. Cluster Setup – Created a Kubernetes cluster on Civo Cloud.
 
 2. Application – Wrote a basic Python app that pulls data from the Enviroment where we have a fixed value of my name.
